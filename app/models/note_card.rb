@@ -1,0 +1,2 @@
+class NoteCard < ApplicationRecord
+end
